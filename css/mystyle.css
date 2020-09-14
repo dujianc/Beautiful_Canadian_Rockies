@@ -1,0 +1,105 @@
+ .div_top {
+    height: auto;
+    background: lightblue;
+    text-align: center;
+    border: none;
+    border-color: red; 
+    width: 100%;
+    clear: both;
+      }
+
+  
+  .about_me_div {
+   
+      background: white;
+      margin-left: 10px;
+      margin-right: 10px;
+           
+      font-size: larger;
+      text-align: left;
+      padding: 20px;
+     
+      }
+
+  .left_image_div {
+   
+      background: white;
+      margin-left: 10px;
+      margin-right: 10px;
+      padding: 20px;
+      float: left;
+      width:70%;
+      display: inline block;
+      }
+
+  .right_image_div {
+   
+      background: white;
+      margin-left: 10px;
+      margin-right: 10px;     
+      
+      padding: 20px;
+      float: right;
+      width: 20%;
+      
+     display: inline block;
+      }
+
+.div_top {
+    height: 60px;
+    background: lightblue;
+    text-align: center;
+    border: none;
+    border-color: red; 
+    clear: both;
+      }
+
+ 
+  .movie_detail_div {
+   
+      background: white;
+      margin-left: 10px;
+      margin-right: 10px;      
+      font-size: larger;
+      text-align: left;
+      padding: 10px;
+     
+      }
+
+  .intro_star_div {
+   
+      background: lightblue;
+      margin-left: 10px;
+      margin-right: 10px;
+      text-align: left;
+      padding: 20px;
+      float: left;
+      width: 70%;
+     position: inline block;
+      }
+
+  .image_star_div {
+   
+      background: white;
+      margin-left: 10px;
+      margin-right: 10px;     
+      text-align: left;
+      padding: 20px;
+      float: left;
+      width: 20%;
+       position: inline block;
+      
+      }
+
+  .bottom_div {
+      background: white;
+      margin: auto;
+      margin-right: 10px;
+           
+      font-size: larger;
+      text-align: left;
+      padding: 20px;
+      clear: both;
+      }
+
+ 
